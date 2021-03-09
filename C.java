@@ -37,7 +37,9 @@ public class C implements J {
         return -1;
     }
 
+
     public java.lang.Class qq() {
         return getClass();
     }
+
 }
