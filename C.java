@@ -23,4 +23,21 @@ public class C implements J {
     public int cc() {
         return 39;
     }
+
+
+    public double ad() {
+        return 9.11;
+    }
+
+    public void bb() {
+        System.out.println(getClass().getName());
+    }
+
+    public int af() {
+        return -1;
+    }
+
+    public java.lang.Class qq() {
+        return getClass();
+    }
 }

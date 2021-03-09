@@ -15,4 +15,22 @@ public class I extends C {
     public long ac() {
         return 333;
     }
+
+
+    public java.lang.Class qq() {
+        return getClass();
+    }
+
+    public java.util.Set<Integer> ll() {
+        return new java.util.HashSet<Integer>;
+    }
+
+    public int hh() {
+        return new java.util.Random().nextInt();
+    }
+
+    public Object pp() {
+        return this;
+    }
+
 }
